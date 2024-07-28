@@ -1,0 +1,69 @@
+// 
+
+"**Modified:** %@" = "**Modified:** %@";
+"**Status:** %@" = "**Status:** %@";
+"All" = "All";
+"Basic Information" = "Informazioni di Base";
+"CLOSED" = "CHIUSO";
+"Closed" = "Chiuso";
+"Date Created" = "Data di Creazione";
+"Date Modified" = "Data della modifica";
+"Enter the issue description here" = "Inserisci la descrizione del problema";
+"Enter the issue title here" = "Inserisci il titolo del problema";
+"High" = "Alta";
+"Low" = "Bassa";
+"Medium" = "Media";
+"Newest to Oldest" = "Dal più nuovo";
+"No Issue Selected" = "Nessun problema selezionato";
+"Oldest to newest" = "Dal più vecchio";
+"Open" = "Aperto";
+"Filters" = "Filtri";
+"Smart Filters" = "Filtri Smart";
+"Tags" = "Tags";
+"Issues" = "Problemi";
+"Turn Filter On" = "Usa filtri";
+"Turn Filter Off" = "Non usare filtri";
+"Sort By" = "Ordina per";
+"Rename tag" = "Rinomina tag";
+"Details" = "Dettagli";
+"New Issue" = "Nuovo problema";
+"Filter issues, or type # to add tags" = "Filtra i problemi, o digita # per aggiungere Tags";
+"Filter" = "Filtra";
+"Add tag" = "Aggiungi tag";
+"Show awards" = "Mostra medaglie";
+"Awards" = "Medaglie";
+"Priority" = "Priorità";
+"Actions" = "Azioni";
+"Copy Issue Title" = "Copia Titolo Problema";
+"Close Issue" = "Chiudi problema";
+"Add Tags" = "Aggiungi Tags";
+"Re-open Issue" = "Riapri Problema";
+"Rename" = "Rinomina";
+"Delete" = "Elimina";
+"OK" = "OK";
+"Cancel" = "Cancella";
+"New name" = "Nuovo nome";
+"New tag" = "Nuovo tag";
+"New issue" = "Nuovo problema";
+"All Issues" = "Tutti i problemi";
+"Recent Issues" = "Problemi recenti";
+"No tags" = "Nessun tag";
+"Locked" = "Bloccato";
+"Unlocked: %@" = "Sbloccato: %@";
+
+"Reminders" = "Promemoria";
+"Show reminders" = "Mostra promemoria";
+"Reminder time" = "Orario promemoria";
+
+/* STORE */
+"Upgrade Today!" = "Upgrade Today!";
+"Get the most out of the app" = "Get the most out of the app";
+"Fetching offers…" = "Fetching offers…";
+"Sorry, there was an error loading our store." = "Sorry, there was an error loading our store.";
+"Try Again" = "Try Again";
+"Restore Purchases" = "Restore Purchases";
+"In-app purchases are disabled" = "In-app purchases are disabled";
+"You can't purchase the premium unlock because in-app purchases are disabled on this device.\n\nPlease ask whomever manages your device for assistance." = "You can't purchase the premium unlock because in-app purchases are disabled on this device.\n\nPlease ask whomever manages your device for assistance.";
+
+"ADD SAMPLES" = "ADD SAMPLES";
+

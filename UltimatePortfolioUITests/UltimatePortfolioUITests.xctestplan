@@ -1,0 +1,26 @@
+{
+  "configurations" : [
+    {
+      "id" : "770864C0-467C-40DF-A225-33201990E157",
+      "name" : "Test Scheme Action",
+      "options" : {
+        "language" : "en",
+        "locationScenario" : null
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "language" : "en"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:UltimatePortfolio.xcodeproj",
+        "identifier" : "6BD117122C4EB0C900F03F5F",
+        "name" : "UltimatePortfolioUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
